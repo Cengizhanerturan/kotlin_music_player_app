@@ -29,4 +29,3 @@ Sign In Screen  | Sign Up UI | Forgot Password
 Home Screen  | Player Screen | Favorites Screen
 ------------- | ------------- | -------------
 <a><img src="https://github.com/cengizhanerturan/kotlin_music_player_app/blob/main/app_images/home.png" width="200" height="400" /></a> | <a><img src="https://github.com/cengizhanerturan/kotlin_music_player_app/blob/main/app_images/player.png" width="200" height="400" /></a> | <a><img src="https://github.com/cengizhanerturan/kotlin_music_player_app/blob/main/app_images/favorites.png" width="200" height="400" /></a>
-
